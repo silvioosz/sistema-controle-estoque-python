@@ -31,5 +31,5 @@ O sistema simula funcionalidades essenciais de controle de estoque e registro de
 
 1. Tenha o **Python 3** instalado em seu computador.
 2. Clone o repositório ou baixe o código fonte:
-   ```bash
-   git clone [https://github.com/silvioosz/sistema-controle-estoque-python.git](https://github.com/silvioosz/sistema-controle-estoque-python.git)
+```bash
+git clone https://github.com/silvioosz/sistema-controle-estoque-python.git
